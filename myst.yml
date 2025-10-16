@@ -55,6 +55,7 @@ project:
         - file: classwork/data-structures-and-files.ipynb
         - file: classwork/pandas-fundamentals.ipynb
         - file: classwork/information-representation.ipynb
+        - file: classwork/time-series-practice.ipynb
         - file: classwork/object-oriented-programming.ipynb
         - file: classwork/geospatial-data.ipynb
         - file: classwork/machine-learning.ipynb
